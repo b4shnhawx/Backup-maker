@@ -24,4 +24,5 @@ Now we can execute the backup maker script in the terminal as a conventional com
 bckpm
 ```
 
+The BCKPM script its been saved in /etc/backup_maker.sh and the binary file in /bin/bckpm.
 ### Example
