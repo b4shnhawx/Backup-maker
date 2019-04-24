@@ -4,6 +4,6 @@ An upgraded version of [OS-Backup-for-Raspberry](https://github.com/davidahid/OS
 
 This script can't avoid completly the human errors, its just to minimalize that errors!!
 
-### Configuration
+### Installation
 ```sh
 ```
