@@ -6,4 +6,8 @@ This script can't avoid completly the human errors, its just to minimalize that 
 
 ### Installation
 ```sh
+cd ~
+git clone https://github.com/davidahid/Backup-maker
+cd Backup-maker/scripts/
+bash installer.sh
 ```
