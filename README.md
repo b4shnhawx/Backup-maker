@@ -15,7 +15,7 @@ bash installer.sh
 
 Now we need to change the permissions and add that we want that the program be executable.
 ```sh
-chmod +x /bin/bckpm
+sudo chmod +x /bin/bckpm
 ```
 
 Optionally we can remove the downloaded git.
