@@ -13,6 +13,11 @@ cd Backup-maker/scripts/
 bash installer.sh
 ```
 
+We need to change the permissions.
+```sh
+
+```
+
 Optionally we can remove the downloaded git.
 ```sh
 cd
