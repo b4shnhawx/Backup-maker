@@ -13,9 +13,9 @@ cd Backup-maker/scripts/
 bash installer.sh
 ```
 
-We need to change the permissions.
+Now we need to change the permissions and add that we want that the program be executable.
 ```sh
-
+chmod +x /bin/bckpm
 ```
 
 Optionally we can remove the downloaded git.
